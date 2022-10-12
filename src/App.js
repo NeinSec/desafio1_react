@@ -8,6 +8,9 @@ const App = () => {
         <div className="col">
           <Navbar/>
         </div>
+        <div>
+          <h2>Bienvenido a mi WEB</h2>
+        </div>
       </div>
     </div>
   );
